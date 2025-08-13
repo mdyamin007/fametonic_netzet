@@ -12,9 +12,9 @@
 }
 
 :root {
-  --background: #000;
+  --background: #010101;
 }
 
 body {
-  /* background: var(--background); */
+  background: var(--background);
 }

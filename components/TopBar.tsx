@@ -1,7 +1,7 @@
 export default function TopBar() {
   return (
-    <div className="py-2.5 text-center bg-gradient-to-r from-primary to-secondary">
-      <p className="font-figtree text-[22px]">
+    <header className="py-2.5 text-center bg-gradient-to-r from-primary to-secondary gap-2.5">
+      <p className="font-figtree text-[22px]/[100%]">
         🚀{" "}
         <span className="text-secondary font-extrabold">
           FRESH BEGINNINGS SALE:{" "}
@@ -10,6 +10,6 @@ export default function TopBar() {
           Extra 25% OFF, Limited Spots - start your journey today!
         </span>
       </p>
-    </div>
+    </header>
   );
 }
