@@ -51,8 +51,8 @@ export default function Hero() {
 
           <div className="w-full flex flex-col gap-[19px] text-center">
             <p className="font-figtree font-medium text-[12px]/[100%] text-[#ABABAB]">
-              By clicking "Get Started", you agree with Terms and Conditions,
-              Privacy Policy, Subscription Terms
+              By clicking &ldquo;Get Started&rdquo;, you agree with Terms and
+              Conditions, Privacy Policy, Subscription Terms
             </p>
             <p className="font-figtree font-medium text-[10px]/[100%] text-[#ABABAB]">
               Fametonic 2025 ©All Rights Reserved.
@@ -120,8 +120,8 @@ export default function Hero() {
 
           <div className="w-full flex flex-col gap-3">
             <p className="font-figtree font-medium text-[12px]/[100%] text-[#ABABAB]">
-              By clicking "Get Started", you agree with Terms and Conditions,
-              Privacy Policy, Subscription Terms
+              By clicking &ldquo;Get Started&rdquo;, you agree with Terms and
+              Conditions, Privacy Policy, Subscription Terms
             </p>
             <p className="font-figtree font-medium text-[10px]/[100%] text-[#ABABAB]">
               Fametonic 2025 ©All Rights Reserved.
