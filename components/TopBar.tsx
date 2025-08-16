@@ -1,7 +1,7 @@
 export default function TopBar() {
   return (
-    <header className="py-2.5 text-center bg-gradient-to-r from-primary to-secondary gap-2.5">
-      <p className="font-figtree text-[22px]/[100%]">
+    <header className="p-5 md:py-2.5 bg-[linear-gradient(89.63deg,#FC004E_-2.16%,#10CBE0_115.27%)] gap-2.5 text-center w-full">
+      <p className="font-figtree text-[16px]/[100%] md:text-[22px]/[100%] tracking-normal">
         🚀{" "}
         <span className="text-secondary font-extrabold">
           FRESH BEGINNINGS SALE:{" "}
